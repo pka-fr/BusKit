@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository has moved!**
+> 
+> Active development continues at **[middleway-group/BusKit](https://github.com/middleway-group/BusKit)**.  
+> Please update your bookmarks, stars ⭐, and issue reports to the new location.  
+> This repository is archived and will no longer receive updates.
+
 # BusKit
 
 <p align="center">
